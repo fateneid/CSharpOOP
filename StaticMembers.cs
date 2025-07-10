@@ -32,6 +32,10 @@ namespace CSharpOOP
         public static void Run()
         {
 
+
+            Console.WriteLine("_________________________Static Members_________________________");
+
+
             clsA objA1 = new clsA();
             clsA objA2 = new clsA();
 
@@ -54,6 +58,8 @@ namespace CSharpOOP
 
             Console.WriteLine("static method2 results: {0}", clsA.Method2());
             Console.WriteLine("static x2: {0}", clsA.x2);
+
+            Console.WriteLine("________________________________________________________________\n");
 
 
         }
