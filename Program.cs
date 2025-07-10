@@ -12,7 +12,9 @@ namespace CSharpOOP
         {
 
             
-            StaticMembers.Run();
+            //StaticMembers.Run();
+            Properties.Run();
+
 
             Console.ReadLine();
 
