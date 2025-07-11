@@ -14,8 +14,8 @@ namespace CSharpOOP
             
             //StaticMembers.Run();
             //Properties.Run(); 
-            Calculator.Run();
-
+            //Calculator.Run();
+            ConstructorAndDestructor.Run();
 
             Console.ReadLine();
 
