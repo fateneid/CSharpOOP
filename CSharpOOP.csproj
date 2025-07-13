@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Calculator.cs" />
     <Compile Include="ConstructorAndDestructor.cs" />
+    <Compile Include="Inheritance.cs" />
     <Compile Include="Properties.cs" />
     <Compile Include="StaticMembers.cs" />
     <Compile Include="Program.cs" />

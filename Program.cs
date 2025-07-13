@@ -11,11 +11,12 @@ namespace CSharpOOP
         static void Main(string[] args)
         {
 
-            
+
             //StaticMembers.Run();
             //Properties.Run(); 
             //Calculator.Run();
-            ConstructorAndDestructor.Run();
+            //ConstructorAndDestructor.Run();
+            Inheritance.Run();
 
             Console.ReadLine();
 
