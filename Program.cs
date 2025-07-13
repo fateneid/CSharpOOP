@@ -16,9 +16,14 @@ namespace CSharpOOP
             //Properties.Run(); 
             //Calculator.Run();
             //ConstructorAndDestructor.Run();
-            Inheritance.Run();
+            //Inheritance.Run();
+            AbstractClass.Run();
+            Interface.Run();
+            NestedClass.Run();
+            Composition.Run();
 
-            Console.ReadLine();
+
+            Console.ReadKey();
 
 
         }
