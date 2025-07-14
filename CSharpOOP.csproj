@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractClass.cs" />
+    <Compile Include="ClassVsStruct.cs" />
+    <Compile Include="InternalAccessModifier.cs" />
     <Compile Include="Calculator.cs" />
     <Compile Include="Composition.cs" />
     <Compile Include="ConstructorAndDestructor.cs" />

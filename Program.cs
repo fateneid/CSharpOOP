@@ -20,8 +20,9 @@ namespace CSharpOOP
             //Composition.Run();
             //SealedClassAndSealedMethod.Run();
             //PartialClassAndPartialMethod.Run();
-            DotNETClassLibrary.Run();
-
+            //DotNETClassLibrary.Run();
+            InternalAccessModifier.Run();
+            ClassVsStruct.Run();
 
 
             Console.ReadKey();
