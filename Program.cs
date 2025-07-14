@@ -18,8 +18,9 @@ namespace CSharpOOP
             //Interface.Run();
             //NestedClass.Run();
             //Composition.Run();
-            SealedClassAndSealedMethod.Run();
-            PartialClassAndPartialMethod.Run();
+            //SealedClassAndSealedMethod.Run();
+            //PartialClassAndPartialMethod.Run();
+            DotNETClassLibrary.Run();
 
 
 
