@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
+
 
 namespace CSharpOOP
 {
@@ -107,6 +103,13 @@ namespace CSharpOOP
         }
 
         // SECTION 4: Polymorphism Examples (Overriding and Shadowing)
+        /* C# supports two types of polymorphism: 
+         * compile-time polymorphism (also known as method overloading)
+         * Runtime polymorphism (also known as method overriding)
+
+         * inheritance is also a form of polymorphism known as "subtyping" or "subtype polymorphism".
+         */
+
         public class clsBaseClassWithOverriding
         {
             public virtual void Print()
