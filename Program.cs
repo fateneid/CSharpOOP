@@ -17,15 +17,18 @@ namespace CSharpOOP
             //Calculator.Run();
             //ConstructorAndDestructor.Run();
             //Inheritance.Run();
-            AbstractClass.Run();
-            Interface.Run();
-            NestedClass.Run();
-            Composition.Run();
+            //AbstractClass.Run();
+            //Interface.Run();
+            //NestedClass.Run();
+            //Composition.Run();
+            SealedClassAndSealedMethod.Run();
+            PartialClassAndPartialMethod.Run();
+
 
 
             Console.ReadKey();
 
-
+            
         }
     }
 }

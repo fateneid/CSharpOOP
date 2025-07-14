@@ -50,7 +50,11 @@
     <Compile Include="Inheritance.cs" />
     <Compile Include="Interface.cs" />
     <Compile Include="NestedClass.cs" />
+    <Compile Include="PartialClass2.cs" />
     <Compile Include="Properties.cs" />
+    <Compile Include="PartialClass1.cs" />
+    <Compile Include="PartialClassAndPartialMethod.cs" />
+    <Compile Include="SealedClassAndSealedMethod.cs" />
     <Compile Include="StaticMembers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
